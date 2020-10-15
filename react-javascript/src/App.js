@@ -107,7 +107,7 @@ const BloodTestCompare = () => {
 
 function App() {
   return (
-    <div className="App" style={{ padding: "50px", width: "800px" }}>
+    <div className="App" style={{ width: "800px" }}>
       <BloodTestCompare />
     </div>
   );
